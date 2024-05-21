@@ -35,19 +35,19 @@ Bib Number Detection is an advanced computer vision project aimed at accurately 
 ### Interface
 
 **Home Page**:
-[Homepage Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Home%20Page.png)
+![Homepage Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Home%20Page.png)
 
 **Photgrapher Sign In**:
-[Photographer Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Sign%20In%20as%20Photographer.png)
+![Photographer Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Sign%20In%20as%20Photographer.png)
 
 **Adding Marathon**:
-[Adding Marathon Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Sign%20In%20as%20Photographer.png)
+![Adding Marathon Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Adding%20Marathon.png)
 
 **Showing All Marathons**:
-[Marathons Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/All%20Marathons.png)
+![Marathons Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/All%20Marathons.png)
 
 **Marathon Page**:
-[Marathon Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Marathon%20Pictures.png)
+![Marathon Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Marathon%20Pictures.png)
 
 
 

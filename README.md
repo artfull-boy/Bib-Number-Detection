@@ -1,4 +1,4 @@
-# Bib-Number-Detection
+![logo](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/logo.png) # Bib-Number-Detection
 
 ## Project Overview
 

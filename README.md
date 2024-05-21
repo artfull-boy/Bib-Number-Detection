@@ -14,7 +14,7 @@ Bib Number Detection is an advanced computer vision project aimed at accurately 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bib-number-detection.git
+   git clone [https://github.com/yourusername/bib-number-detection.git](https://github.com/artfull-boy/Bib-Number-Detection.git)
    ```
 2. Navigate to the project directory:
 

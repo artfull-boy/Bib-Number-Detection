@@ -16,7 +16,7 @@ Bib Number Detection is an advanced computer vision project aimed at accurately 
    ```sh
    git clone https://github.com/yourusername/bib-number-detection.git
    ```
-2. Navigate to the project directory:
+2. Navigate to the project directory
 
 3. Install the required dependencies:
    ```sh
@@ -33,7 +33,23 @@ Bib Number Detection is an advanced computer vision project aimed at accurately 
    ```
 
 ### Interface
-()[]
+
+**Home Page**:
+[Homepage Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Home%20Page.png)
+
+**Photgrapher Sign In**:
+[Photographer Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Sign%20In%20as%20Photographer.png)
+
+**Adding Marathon**:
+[Adding Marathon Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Sign%20In%20as%20Photographer.png)
+
+**Showing All Marathons**:
+[Marathons Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/All%20Marathons.png)
+
+**Marathon Page**:
+[Marathon Screen](https://github.com/artfull-boy/Bib-Number-Detection/blob/master/public/images/Marathon%20Pictures.png)
+
+
 
 
 ## Contributing
